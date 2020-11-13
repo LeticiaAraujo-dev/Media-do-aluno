@@ -1,0 +1,13 @@
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Media-do-aluno\bin\Debug\netcoreapp3.1\Media-do-aluno.exe
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Media-do-aluno\bin\Debug\netcoreapp3.1\Media-do-aluno.deps.json
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Media-do-aluno\bin\Debug\netcoreapp3.1\Media-do-aluno.runtimeconfig.json
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Media-do-aluno\bin\Debug\netcoreapp3.1\Media-do-aluno.runtimeconfig.dev.json
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Media-do-aluno\bin\Debug\netcoreapp3.1\Media-do-aluno.dll
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Media-do-aluno\bin\Debug\netcoreapp3.1\Media-do-aluno.pdb
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Media-do-aluno\obj\Debug\netcoreapp3.1\Media-do-aluno.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Media-do-aluno\obj\Debug\netcoreapp3.1\Media-do-aluno.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Media-do-aluno\obj\Debug\netcoreapp3.1\Media-do-aluno.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Media-do-aluno\obj\Debug\netcoreapp3.1\Media-do-aluno.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Media-do-aluno\obj\Debug\netcoreapp3.1\Media-do-aluno.dll
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Media-do-aluno\obj\Debug\netcoreapp3.1\Media-do-aluno.pdb
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Media-do-aluno\obj\Debug\netcoreapp3.1\Media-do-aluno.genruntimeconfig.cache
